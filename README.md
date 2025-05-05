@@ -73,3 +73,7 @@ The final model was used to generate predictions for the test set. Predictions a
 ## 📌 Conclusion
 
 This project presents a complete machine learning pipeline — from preprocessing and feature engineering to model training with XGBoost — aimed at identifying mobile apps that might be at risk of violating COPPA. This contributes to safer digital environments for children by enabling proactive content moderation and app store policy enforcement.
+
+---
+
+**Created by Fauzan** – for Data Analytics Competition FIND IT 2025, Universitas Gadjah Mada.
