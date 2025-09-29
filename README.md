@@ -4,7 +4,7 @@ This repository contains the complete pipeline for building a machine learning m
 
 ## 🧠 Background
 
-![Fossil_App_Screenshot](https://github.com/user-attachments/assets/2ae26a9b-ac78-4ec9-be7f-29208a6538c5)
+![COPPA_Model](https://github.com/user-attachments/assets/bcbea41b-4d93-4ee0-83c3-c05dd609fcac)
 
 
 With the growing digital exposure of children, mobile apps play an increasing role in education and entertainment. However, this also raises concerns about data privacy. Regulations like the **Children’s Online Privacy Protection Act (COPPA)** are designed to protect children under 13 from inappropriate data collection practices.
